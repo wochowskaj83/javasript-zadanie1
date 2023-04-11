@@ -1,4 +1,3 @@
-let firstName = 'Jolanta';
-let lastName = 'Wochowska';
+let text= 'Uwielbiam JavaScript!';
 
-console.log (firstName, lastName)
+console.log(text)
